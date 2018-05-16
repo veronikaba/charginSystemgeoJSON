@@ -1,0 +1,548 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 1,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368842,
+          52.535955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 2,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370317,
+          52.5343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 3,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37762,
+          52.531847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 4,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391272,
+          52.528091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 5,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39135,
+          52.530483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 6,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395824,
+          52.534398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 7,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395841,
+          52.529125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 8,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378211,
+          52.510907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 9,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378846,
+          52.528677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "APCOA PARKING Deutschland GmbH",
+        "ID": 10,
+        "Anzahl Ladepunkte": 1,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802425999999,
+          52.5160186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 11,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38025,
+          52.51983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 12,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380581,
+          52.523719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 13,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380966,
+          52.522819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 14,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38431,
+          52.515197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 15,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389543,
+          52.509467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 16,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389922,
+          52.515846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 17,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390118,
+          52.512969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 18,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390248,
+          52.51897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "Allego GmbH",
+        "ID": 19,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396763,
+          52.511309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 20,
+        "Betreiber": "innogy SE",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41046,
+          52.51579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 21,
+        "Betreiber": "innogy SE",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403185,
+          52.53382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 22,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403944,
+          52.520978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 23,
+        "Betreiber": "innogy SE",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409136,
+          52.518744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 24,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "CHAdeMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413833,
+          52.522747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Betreiber": "innogy SE",
+        "ID": 25,
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421389,
+          52.524167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 26,
+        "Betreiber": "innogy SE",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409065,
+          52.510383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 27,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414446,
+          52.508218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 28,
+        "Betreiber": "APCOA PARKING Deutschland GmbH",
+        "Anzahl Ladepunkte": 4,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4147947999999,
+          52.5199025999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 29,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415578,
+          52.513388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 30,
+        "Betreiber": "innogy SE",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417261,
+          52.517707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 31,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432585,
+          52.517177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 32,
+        "Betreiber": "Allego GmbH",
+        "Anzahl Ladepunkte": 2,
+        "Steckertyp LP 1": "Typ 2",
+        "Steckertyp LP 2": "Typ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434841,
+          52.521066
+        ]
+      }
+    }
+  ]
+}
